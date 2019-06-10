@@ -13,7 +13,7 @@ To whitelist a specific IP address run:
 `./aws-whitelist-ip -g <the security group to modify> -ip <the ip address to whitelist> -email <your email address> -p <the port number to expose>`
 
 ## Bugs, feature requests and code improvement
-If you have a bug, a feature request or you think that the code could be improved (this is my first attempt to code in GO)? The [issue tracker](https://github.com/midaboghetich/aws-whitelist-ip/issues) is the best channel to report a bug or to open a feature request.
+If you have a bug, a feature request or you think that the code could be improved (this is my first attempt to code in GO), please use the [issue tracker](https://github.com/midaboghetich/aws-whitelist-ip/issues).
 
 ## Creator
 
