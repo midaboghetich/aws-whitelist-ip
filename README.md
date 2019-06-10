@@ -2,6 +2,8 @@
 
 <h2 align="center">A Simple GO application to whitelist an IP address in AWS</h2>
 
+## Pre-requisites
+you should have a valid [AWS configuration and credential files](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
 ## Getting Started
 
 To whitelist your current ip address just run (the app will use https://api.ipify.org to retrieve your ip address):
